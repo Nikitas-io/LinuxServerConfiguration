@@ -4,6 +4,7 @@ This is my version of the Linux Server Configuration project for Udacity. This p
 ## The IP address and SSH port
 - IP: 18.197.161.247
 - SSH port: 2200
+- SSH Key password: graderpass123
 
 ## The complete URL to the hosted web application
 http://18.197.161.247
@@ -110,7 +111,7 @@ application.secret_key = 'averysecretkey'
     ServerName 18.197.161.247
     DocumentRoot /var/www/item_catalog
 
-    WSGIScriptAlias / /var/www/item_catalog/app.wsgi
+    WSGIScriptAlias / /var/www/item_catalog/item_catalog.wsgi
 	<Directory /var/www/item_catalog/>
 		Order allow,deny
 		Allow from all
