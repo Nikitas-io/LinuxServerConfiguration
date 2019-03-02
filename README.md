@@ -4,7 +4,6 @@ This is my version of the Linux Server Configuration project for Udacity. This p
 ## The IP address and SSH port
 - IP: 18.197.161.247
 - SSH port: 2200
-- SSH Key password: graderpass123
 
 ## The complete URL to the hosted web application
 http://18.197.161.247
