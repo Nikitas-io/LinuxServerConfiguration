@@ -85,7 +85,7 @@ host    all             all             ::1/128                 md5.
     5. sudo -H pip install requests
     6. sudo -H pip install httplib2
     7. sudo -H pip install datetime
-    8. sudo -H pip install psycopg2-binary
+    8. sudo -H pip install psycopg2-binary (Don't forget to `sudo apt-get update` & `sudo apt-get install libpq-dev python-dev` first)
 - Created the database schema with `sudo python database_setup.py`.
 
 ## Create a wsgi file
