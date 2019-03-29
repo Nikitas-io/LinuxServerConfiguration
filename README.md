@@ -1,5 +1,5 @@
 # LinuxServerConfiguration
-This is my version of the Linux Server Configuration project for Udacity. This project was made on a Linux server instance, using the Amazon Lightsail service.
+This is a Linux Server Configuration project. This project was made on a Linux server instance, using the Amazon Lightsail service. I documented all the required steps to set up a secure server, from the moment of installation to the moment it goes live.
 
 ## The IP address and SSH port
 - IP: 18.197.161.247
