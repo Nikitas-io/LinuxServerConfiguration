@@ -6,8 +6,9 @@ This is a Linux Server Configuration project. This project was made on a Linux s
 - SSH port: 2200
 
 ## The complete URL to the hosted web application
-http://18.197.161.247
-http://18.197.161.247.xip.io/
+This project is currently offline. 
+~~http://18.197.161.247
+http://18.197.161.247.xip.io/~~
 
 # Summary of software I installed and configuration changes I made
 
